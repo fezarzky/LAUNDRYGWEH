@@ -1,2 +1,2 @@
 # LAUNDRYGWEH
-LAUNDRYGWEH adalah sebuah aplikasi website admin yang digunakan untuk mengelola bisnis laundry.
+LAUNDRYGWEH adalah sebuah aplikasi admin berbasis web yang digunakan untuk mengelola bisnis laundry.
